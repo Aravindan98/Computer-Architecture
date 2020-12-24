@@ -1,5 +1,6 @@
 # Computer-Architecture
 This repo contains all the verilog codes written for the Computer Architecture course.
+The goal was to design datapaths for a single-cycle, multi-cycle, pipelined implementation of a RISC processor for the MIPS instruction set architecture. All required submodules are also included.
 
 ## Useful links
 * [Basics](https://class.ece.uw.edu/371/peckol/doc/Tutorials/VerilogTutorial-Hauck.pdf)
