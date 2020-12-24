@@ -11,3 +11,6 @@ Go to the bin folder and Type this on command prompt to compile the code and exe
 iverilog -o filename.vvp filename.v
 vvp filename.vvp
 ```
+
+LAB TEST-2020
+[Imgur](https://i.imgur.com/ZMACAny.jpg)
