@@ -13,3 +13,4 @@ vvp filename.vvp
 ```
 
 [LAB TEST-2020 Question Paper](https://i.imgur.com/ZMACAny.jpg)
+The solutions is titled as 2017B4A70849P.v, open the vcd file on GTKWAVE to view the waveform
