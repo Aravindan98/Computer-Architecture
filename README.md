@@ -12,5 +12,4 @@ iverilog -o filename.vvp filename.v
 vvp filename.vvp
 ```
 
-LAB TEST-2020
-[Imgur](https://i.imgur.com/ZMACAny.jpg)
+[LAB TEST-2020 Question Paper](https://i.imgur.com/ZMACAny.jpg)
