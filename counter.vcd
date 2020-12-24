@@ -1,0 +1,314 @@
+$date
+	Sun Nov 01 02:06:47 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench $end
+$var wire 4 ! q [3:0] $end
+$var reg 1 " clk $end
+$var integer 32 # i [31:0] $end
+$scope module c $end
+$var wire 1 " clk $end
+$var wire 1 $ w1 $end
+$var wire 1 % w2 $end
+$var wire 4 & q [3:0] $end
+$scope module jk1 $end
+$var wire 1 " clk $end
+$var wire 1 ' j $end
+$var wire 1 ( k $end
+$var reg 1 ) q $end
+$upscope $end
+$scope module jk2 $end
+$var wire 1 " clk $end
+$var wire 1 * j $end
+$var wire 1 + k $end
+$var reg 1 , q $end
+$upscope $end
+$scope module jk3 $end
+$var wire 1 " clk $end
+$var wire 1 $ j $end
+$var wire 1 $ k $end
+$var reg 1 - q $end
+$upscope $end
+$scope module jk4 $end
+$var wire 1 " clk $end
+$var wire 1 % j $end
+$var wire 1 % k $end
+$var reg 1 . q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0.
+0-
+0,
+0+
+0*
+0)
+1(
+1'
+b0 &
+0%
+0$
+b0 #
+0"
+b0 !
+$end
+#2
+1+
+1*
+b1 !
+b1 &
+1)
+b1 #
+1"
+#4
+b10 #
+0"
+#6
+0+
+0*
+1,
+b10 !
+b10 &
+0)
+b11 #
+1"
+#8
+b100 #
+0"
+#10
+1$
+1+
+1*
+b11 !
+b11 &
+1)
+b101 #
+1"
+#12
+b110 #
+0"
+#14
+0$
+0+
+0*
+1-
+0,
+b100 !
+b100 &
+0)
+b111 #
+1"
+#16
+b1000 #
+0"
+#18
+1+
+1*
+b101 !
+b101 &
+1)
+b1001 #
+1"
+#20
+b1010 #
+0"
+#22
+0+
+0*
+1,
+b110 !
+b110 &
+0)
+b1011 #
+1"
+#24
+b1100 #
+0"
+#26
+1%
+1$
+1+
+1*
+b111 !
+b111 &
+1)
+b1101 #
+1"
+#28
+b1110 #
+0"
+#30
+0%
+0$
+0+
+0*
+1.
+0-
+0,
+b1000 !
+b1000 &
+0)
+b1111 #
+1"
+#32
+b10000 #
+0"
+#34
+1+
+1*
+b1001 !
+b1001 &
+1)
+b10001 #
+1"
+#36
+b10010 #
+0"
+#38
+0+
+0*
+1,
+b1010 !
+b1010 &
+0)
+b10011 #
+1"
+#40
+b10100 #
+0"
+#42
+1$
+1+
+1*
+b1011 !
+b1011 &
+1)
+b10101 #
+1"
+#44
+b10110 #
+0"
+#46
+0$
+0+
+0*
+1-
+0,
+b1100 !
+b1100 &
+0)
+b10111 #
+1"
+#48
+b11000 #
+0"
+#50
+1+
+1*
+b1101 !
+b1101 &
+1)
+b11001 #
+1"
+#52
+b11010 #
+0"
+#54
+0+
+0*
+1,
+b1110 !
+b1110 &
+0)
+b11011 #
+1"
+#56
+b11100 #
+0"
+#58
+1%
+1$
+1+
+1*
+b1111 !
+b1111 &
+1)
+b11101 #
+1"
+#60
+b11110 #
+0"
+#62
+0%
+0$
+0+
+0*
+0.
+0-
+0,
+b0 !
+b0 &
+0)
+b11111 #
+1"
+#64
+b100000 #
+0"
+#66
+1+
+1*
+b1 !
+b1 &
+1)
+b100001 #
+1"
+#68
+b100010 #
+0"
+#70
+0+
+0*
+1,
+b10 !
+b10 &
+0)
+b100011 #
+1"
+#72
+b100100 #
+0"
+#74
+1$
+1+
+1*
+b11 !
+b11 &
+1)
+b100101 #
+1"
+#76
+b100110 #
+0"
+#78
+0$
+0+
+0*
+1-
+0,
+b100 !
+b100 &
+0)
+b100111 #
+1"
+#80
+b101000 #
+0"
+#82
